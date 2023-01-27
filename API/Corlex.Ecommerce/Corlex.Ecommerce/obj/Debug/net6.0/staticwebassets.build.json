@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I5PP9cWujP05JcU2sTeuhqK2KLbIMWfbPvFzytRNdEE=",
+  "Source": "Corlex.Ecommerce.API",
+  "BasePath": "_content/Corlex.Ecommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

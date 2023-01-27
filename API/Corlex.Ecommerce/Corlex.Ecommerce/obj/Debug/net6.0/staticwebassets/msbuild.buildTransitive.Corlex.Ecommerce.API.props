@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Corlex.Ecommerce.API.props" />
+</Project>
